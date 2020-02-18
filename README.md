@@ -10,3 +10,4 @@
 ## JavaScript
 
 1. [JavaScript Programming from A-Z: Learn to Code in JavaScript](https://www.udemy.com/course/complete-javascript/) - By Udemy
+2. [JavaScript Fundamentals](https://www.udemy.com/course/javascriptfundamentals/) - By Udemy
