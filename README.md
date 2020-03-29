@@ -11,3 +11,8 @@
 
 1. [JavaScript Programming from A-Z: Learn to Code in JavaScript](https://www.udemy.com/course/complete-javascript/) - By Udemy
 2. [JavaScript Fundamentals](https://www.udemy.com/course/javascriptfundamentals/) - By Udemy
+
+## Web Design
+
+1. [Photoshop for Web Design Beginners](https://www.udemy.com/course/photoshop-for-web-design-beginners/) - By Udemy
+
