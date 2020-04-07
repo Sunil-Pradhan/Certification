@@ -1,6 +1,6 @@
 # Certification :man_technologist:
 
-![my certification](/images/my-certification.png)
+![my certification](/img/my-certification.png)
 
 ## Database
 
