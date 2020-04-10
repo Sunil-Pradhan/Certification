@@ -14,7 +14,9 @@
 
 ## Node.js
 
-1. [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/) || [Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-f6e8daa6-c77a-4bcd-ab5f-a86b71efc245.jpg)  - By Udemy
+1. [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/) || [Certificate](https://www.udemy.com/certificate/UC-f6e8daa6-c77a-4bcd-ab5f-a86b71efc245/)  - By Udemy
+
+2. [Understanding NPM - Node.js Package Manager](https://www.udemy.com/course/npm-mastering-the-basics/) || [Certificate](https://www.udemy.com/certificate/UC-de5cb39c-6c38-44ab-9759-e79b630f4c82/)  - By Udemy
 
 ## Web Design
 
